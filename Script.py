@@ -218,10 +218,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/TG_File_StreamX_Bot">{file_name}
+    CAPTION = """<b><a Fɪʟᴇ Nᴀᴍᴇ : {file_name}
 
-sɪᴢᴇ : {file_size} @TG_File_StreamX_Bot
-Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ Yᴏᴜ Wɪʟʟ Gᴇᴛ Fᴀsᴛ Dᴏᴡɴʟᴏᴀᴅ Lɪɴᴋ & Oɴʟɪɴᴇ Wᴀᴛᴄʜ Lɪɴᴋ
+Sɪᴢᴇ : {file_size} 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ▫️<a href=https://t.me/PK_LinkZz> Daily Updates </a>
 ▫️<a href=https://t.me/Pkmovie_request> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs </a>
