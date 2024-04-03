@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://graph.org/file/ba15ad07e7880d48ae7ba.mp4" alt="@Wanda_Ki_Shakti_Bot Logo">
+  <img src="https://telegra.ph/file/64764b9e6df9d2d1162c7.jpg" alt="@Wanda_Ki_Shakti_Bot Logo">
 </p>
 <h1 align="center">
-  Biisal Filter Bot 
+ Filter Bot 
 </h1>
 
 Here is our **Demo** bot -
