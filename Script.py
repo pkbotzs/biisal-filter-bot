@@ -218,14 +218,11 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a Fɪʟᴇ Nᴀᴍᴇ : {file_name}
+    CAPTION = """<b><a href="https://t.me/TG_File2DirectLink_Bot">{file_name}
 
-Sɪᴢᴇ : {file_size} 
-╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/PK_LinkZz> Daily Updates </a>
-▫️<a href=https://t.me/Pkmovie_request> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs </a>
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝ </a></b>"""
-
+sɪᴢᴇ : {file_size}
+Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ Tᴏ @TG_File2DirectLink_Bot Yᴏᴜ Wɪʟʟ Gᴇᴛ Dᴏᴡɴʟᴏᴀᴅ & Sᴛʀᴇᴀᴍ </a></b>"""
+    
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
 IMDb Data:
