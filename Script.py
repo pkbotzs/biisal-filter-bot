@@ -218,10 +218,9 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/TG_File2DirectLink_Bot">{file_name}
-
-sɪᴢᴇ : {file_size}
-Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ Tᴏ @TG_File2DirectLink_Bot Yᴏᴜ Wɪʟʟ Gᴇᴛ Dᴏᴡɴʟᴏᴀᴅ & Sᴛʀᴇᴀᴍ </a></b>"""
+    CAPTION = """<b><a ▶Fɪʟᴇ Nᴀᴍᴇ : {file_name}
+▶sɪᴢᴇ : {file_size}
+Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ Tᴏ @TG_File2DirectLink_Bot Yᴏᴜ Wɪʟʟ Gᴇᴛ Fᴀsᴛ Dᴏᴡɴʟᴏᴀᴅ & Sᴛʀᴇᴀᴍ </a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
@@ -256,6 +255,7 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
     RESTART_TXT = """
 <b>{} Rᴇsᴛᴀʀᴛᴇᴅ !
+Bot Link :- @Movie_SearchXBot
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
