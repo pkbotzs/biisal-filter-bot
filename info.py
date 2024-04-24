@@ -69,7 +69,7 @@ auth_grp = environ.get('AUTH_GROUP', '-1001594892707')
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 support_chat_id = environ.get('SUPPORT_CHAT_ID', '-1001911262876')
-reqst_channel = environ.get('REQST_CHANNEL_ID', '-1001902923509')
+reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002028997178')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(support_chat_id) else None
 NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
@@ -101,7 +101,7 @@ VERIFY_REQ_CHNL = int(environ.get('VERIFY_REQ_CHNL', '-1001740524004'))
 NEW_USER_LOG = int(environ.get('NEW_USER_LOG', '-1001740524004'))
 BIN_CHNL = int(environ.get('BIN_CHNL', '-1001870553067'))
 
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Askcaptainbot')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'PKlinkzz_admin_bot')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
