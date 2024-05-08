@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a>,【ɪᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ+└ᴀᴡᴇꜱᴏᴍᴇ ꜰɪʟᴛᴇʀ┘+├ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ┤+☞ᴍᴀɴᴜᴀʟ ꜰɪᴛᴇʀ☜ ᴀɴᴅ ᢵᴄᴜꜱᴛᴏᴍɪᴢᴇᴅ ꜱʜᴏʀᴛɴᴇʀ ꜱᴜᴘᴘᴏʀᴛᢴ ᢾᴀɴᴅ ʙᴇꜱᴛ ᴜɪ ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇᢿ
 
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Askcaptainbot">Asᴋᴄᴀᴘᴛᴀɪɴʙᴏᴛ</a></b> 😏</b>"""
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/PKlinkzz_admin_bot">PKlinkzz_admin</a></b> 😏</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -33,7 +33,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.</b>
-<b>Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ : @Askcaptainbot<b/>
+<b>Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ : @PKlinkzz_admin_bot<b/>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -218,9 +218,10 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a ▶Fɪʟᴇ Nᴀᴍᴇ : {file_name}
-▶sɪᴢᴇ : {file_size}
-Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ Tᴏ @TG_File2DirectLink_Bot Yᴏᴜ Wɪʟʟ Gᴇᴛ Fᴀsᴛ Dᴏᴡɴʟᴏᴀᴅ & Sᴛʀᴇᴀᴍ </a></b>"""
+    CAPTION = """<b><a href="https://t.me/TG_File2DirectLink_Bot">{file_name}
+
+sɪᴢᴇ : {file_size}
+Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ</a></b> Yᴏᴜ Wɪʟʟ Gᴇᴛ Fᴀsᴛ Dᴏᴡɴʟᴏᴀᴅ & Sᴛʀᴇᴀᴍ </a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
